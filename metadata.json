@@ -1,0 +1,5 @@
+{
+  "name": "Life Orbit",
+  "description": "A spatial computing life management system. It visualizes your life as concentric orbits: Survival, Growth, and Vision. Features AI-powered thought sorting and a 'Future Mirror' to visualize your long-term goals.",
+  "requestFramePermissions": []
+}
