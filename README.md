@@ -1,7 +1,8 @@
 # 人生备忘录｜Life Orbit 生命轨道系统
 
 - **用结构代替焦虑，用视觉代替混乱。**
- 
+ <img width="2752" height="1536" alt="Gemini_Generated_Image_bpgxssbpgxssbpgx" src="https://github.com/user-attachments/assets/76b24055-7780-46bb-bdc9-97919f8ab301" />
+
 ## 1. 问题与三大痛点（Problem & Pain）
 
 - **路演**  
